@@ -1,0 +1,10 @@
+# task 2
+
+numbers = list(range (1,11))
+
+first_five =numbers[:5]
+
+reversed_five = numbers[::-1]
+
+print("Extracted list ",first_five)
+print("reversed list" ,reversed_five)
